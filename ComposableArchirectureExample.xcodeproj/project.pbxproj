@@ -41,6 +41,7 @@
 		BE4C452B25137760006F606D /* ComposableArchirectureExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ComposableArchirectureExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE4C452D25137760006F606D /* ComposableArchirectureExampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposableArchirectureExampleTests.swift; sourceTree = "<group>"; };
 		BE4C452F25137760006F606D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE4C453C25149D87006F606D /* ComposableArchitecturePlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ComposableArchitecturePlayground.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +86,7 @@
 		BE0B4ED4251337CC00C5B8C7 /* ComposableArchirectureExample */ = {
 			isa = PBXGroup;
 			children = (
+				BE4C453C25149D87006F606D /* ComposableArchitecturePlayground.playground */,
 				BE0B4ED5251337CC00C5B8C7 /* AppDelegate.swift */,
 				BE0B4ED7251337CC00C5B8C7 /* SceneDelegate.swift */,
 				BE0B4ED9251337CC00C5B8C7 /* ContentView.swift */,
